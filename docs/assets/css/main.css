@@ -36,7 +36,7 @@ h2{
 }
 
 h3{
-    font-size: 40px;
+    font-size: 5%;
     font-family: Pixelary;
 }
 
@@ -66,10 +66,11 @@ td{
 
 #bodyright{
     float: left;
-    width: 60%;
+    width: 70%;
     margin-right: 0;
     margin-left: auto;
-    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     border: 2px solid black;
 }
 
