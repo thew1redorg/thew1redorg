@@ -22,6 +22,12 @@ a{
     text-decoration: none;
 }
 
+a:hover{
+    font-size: 60px;
+    color: white;
+    text-decoration: none;
+}
+
 td{
     padding: 10px;
 }
