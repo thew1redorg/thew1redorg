@@ -37,6 +37,10 @@ td{
     border: 2px solid white;
 }
 
+#bodywrap{
+    display: flex;
+}
+
 #bodyleft{
     float: left;
     width: 30%;
@@ -47,8 +51,7 @@ td{
 
 #bodyright{
     float: right;
-    display: inline;
-    width: 70%;
+    width: 60%;
     margin-right: 0;
     margin-left: auto;
     border: 2px solid white;
