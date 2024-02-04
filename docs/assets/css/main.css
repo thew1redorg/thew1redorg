@@ -8,8 +8,5 @@ body{
     background-image: url("/docs/assets/img/monopasukasleepysquare.png");
     background-color: darkgray;
     font-family: Pixelary;
-}
-
-h2{
-    color:white;
+    color: white;
 }
