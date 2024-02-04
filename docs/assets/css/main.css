@@ -1,6 +1,13 @@
+@font-face {
+    font-family: Pixelary;
+    src: url("/docs/assets/fonts/Pixelary.otf");
+}
+
+
 body{
     background-image: url("/docs/assets/img/monopasukasleepysquare.png");
     background-color: darkgray;
+    font-family: Pixelary;
 }
 
 h2{
