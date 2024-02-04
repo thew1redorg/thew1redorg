@@ -3,7 +3,6 @@
     src: url("/docs/assets/fonts/Pixelary.otf");
 }
 
-
 body{
     background-image: url("/docs/assets/img/monopasukasleepysquare.png");
     background-color: darkgray;
@@ -25,7 +24,6 @@ a:hover{
 
 h1{
     font-size: 80px;
-    color: #a2a2a2;
 }
 
 td{
