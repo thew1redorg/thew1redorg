@@ -40,7 +40,6 @@ td{
 #bodyleft{
     float: left;
     width: 30%;
-    padding: 20px;
     margin-left: 0;
     margin-right: auto;
     border: 2px solid white;
@@ -50,7 +49,6 @@ td{
     float: right;
     display: inline;
     width: 70%;
-    padding: 20px;
     margin-right: 0;
     margin-left: auto;
     border: 2px solid white;
