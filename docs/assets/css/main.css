@@ -8,17 +8,17 @@ body{
     background-image: url("/docs/assets/img/monopasukasleepysquare.png");
     background-color: darkgray;
     font-family: Pixelary;
-    color: white;
+    color: #a2a2a2;
 }
 
 h1{
     font-size: 80px;
-    color: white;
+    color: #a2a2a2;
 }
 
 a{
     font-size: 60px;
-    color: white;
+    color: #a2a2a2;
     text-decoration: none;
 }
 
