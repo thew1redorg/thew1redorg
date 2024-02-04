@@ -16,13 +16,13 @@ body{
 a{
     color: black;
     text-decoration: none;
-    font-family: Pixelary;
+    width: 100%;
 }
 
 a:hover{
     color: gray;
     text-decoration: none;
-    font-family: Pixelary;
+    width: 100%;
 }
 
 h1{
