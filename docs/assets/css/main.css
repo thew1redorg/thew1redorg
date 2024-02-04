@@ -3,6 +3,11 @@
     src: url("/docs/assets/fonts/Pixelary.otf");
 }
 
+@font-face {
+    font-family: BankPrinter;
+    src: url("/docs/assets/fonts/F25_Bank_Printer.otf");
+}
+
 body{
     background-color: white;
     color: black;
@@ -30,6 +35,10 @@ h2{
 
 h3{
     font-size: 40px;
+}
+
+p{
+    font-family: BankPrinter;
 }
 
 td{
