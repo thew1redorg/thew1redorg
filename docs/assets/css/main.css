@@ -10,3 +10,14 @@ body{
     font-family: Pixelary;
     color: white;
 }
+
+h1{
+    font-size: 40px;
+    color: white;
+}
+
+a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
