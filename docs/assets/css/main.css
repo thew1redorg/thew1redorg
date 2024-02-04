@@ -39,7 +39,6 @@ td{
 }
 
 #bodyleft{
-    float: left;
     width: 30%;
     margin-left: 0;
     margin-right: auto;
@@ -51,7 +50,6 @@ td{
 }
 
 #bodyright{
-    float: right;
     width: 60%;
     margin-right: 0;
     margin-left: auto;
