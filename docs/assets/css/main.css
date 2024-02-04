@@ -22,6 +22,10 @@ a{
     text-decoration: none;
 }
 
+td{
+    padding: 10px;
+}
+
 #bodyleft{
     float: left;
     width: 30%;
@@ -31,7 +35,7 @@ a{
 }
 
 #bodyright{
-    floar: right;
+    float: right;
     width: 70%;
     padding: 20px;
     margin-right: 0;
