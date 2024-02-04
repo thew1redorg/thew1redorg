@@ -30,6 +30,12 @@ td{
     padding: 10px;
 }
 
+#header{
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+}
+
 #bodyleft{
     float: left;
     width: 30%;
@@ -44,4 +50,9 @@ td{
     padding: 20px;
     margin-right: 0;
     margin-left: auto;
+}
+
+#footer{
+    width: 100%;
+    padding: 20px;
 }
