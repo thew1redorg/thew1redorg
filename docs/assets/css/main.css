@@ -30,7 +30,7 @@ td{
 
 #header{
     width: 100%;
-    padding: 20px;
+    padding: 10px;
     margin: auto;
     border: 2px solid white;
 }
@@ -44,8 +44,11 @@ td{
     width: 30%;
     margin-left: 0;
     margin-right: auto;
-    font-size: 60px;
     border: 2px solid white;
+}
+
+#bodyleft.a{
+    font-size: 60px;
 }
 
 #bodyright{
@@ -62,6 +65,6 @@ footer{
     bottom: 0;
     width: 100%;
     text-align: center;
-    font-size: 10px;
+    font-size: 20px;
     border: 2px solid white;
 }
